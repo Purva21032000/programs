@@ -13,7 +13,7 @@ class numbers
 	node *temp;
 		numbers()
 	{
-		head=NULL;              //user input
+		head=NULL;              
 		head1=NULL;             //positive
 		head2=NULL;             //negative
 		head3=NULL;             //merge
