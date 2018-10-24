@@ -14,10 +14,9 @@ class numbers
 		numbers()
 	{
 		head=NULL;              
-		head1=NULL;             //positive
-		head2=NULL;             //negative
-		head3=NULL;             //merge
-	}
+		head1=NULL;             
+		head2=NULL;             
+		head3=NULL;             	}
 void display(node *headn)
 {
 	for(temp=headn;temp!=NULL;temp=temp->next)
