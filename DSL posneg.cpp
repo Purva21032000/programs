@@ -10,6 +10,7 @@ class numbers
 {
 	public:
 	node *head,*head1,*head2,*head3,*headn;
+	
 	node *temp;
 		numbers()
 	{
